@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Eberli/SteamTradeBot/issues"
   },
-  "homepage": "https://github.com/Eberli/SteamTradeBot#readme"
+  "homepage": "https://github.com/Eberli/SteamTradeBot#readme",
+  "dependencies": {
+    "steamcommunity": "^3.33.1"
+  }
 }
